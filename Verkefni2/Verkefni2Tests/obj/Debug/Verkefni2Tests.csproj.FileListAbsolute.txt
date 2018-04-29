@@ -1,0 +1,16 @@
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Verkefni2Tests.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Verkefni2Tests.pdb
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Verkefni2.exe
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Verkefni2.pdb
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Verkefni2.exe.config
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\obj\Debug\Verkefni2Tests.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\obj\Debug\Verkefni2Tests.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\obj\Debug\Verkefni2Tests.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2Tests\obj\Debug\Verkefni2Tests.pdb

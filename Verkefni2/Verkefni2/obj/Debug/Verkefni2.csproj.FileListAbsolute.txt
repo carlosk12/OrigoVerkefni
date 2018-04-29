@@ -1,0 +1,7 @@
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2\bin\Debug\Verkefni2.exe.config
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2\bin\Debug\Verkefni2.exe
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2\bin\Debug\Verkefni2.pdb
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2\obj\Debug\Verkefni2.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2\obj\Debug\Verkefni2.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2\obj\Debug\Verkefni2.exe
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni2\Verkefni2\obj\Debug\Verkefni2.pdb
