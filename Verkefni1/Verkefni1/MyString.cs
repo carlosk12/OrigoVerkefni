@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Verkefni1
 {
-    public class MyString
+    public static class MyString
     {
         /* 
          * This function searches in the original string for the location of the first two characters in the rotated 
          * string. If it doesn't find a match it will return -1
          * */
-        private int FindWhereRotationStarts(string originalString, string rotatedString)
+        private static int FindWhereRotationStarts(string originalString, string rotatedString)
         {
             for (int i = 0; i < rotatedString.Length - 1; i++)
             {
@@ -26,7 +26,7 @@ namespace Verkefni1
         }
 
         //This is the function we call in the program
-        public bool IsRotated(string originalString, string rotatedString)
+        public static bool IsRotated(string originalString, string rotatedString)
         {
             int rotationLoc = FindWhereRotationStarts(originalString, rotatedString);
 
@@ -56,6 +56,18 @@ namespace Verkefni1
             {
                 return false;
             }
+        }
+
+        //Function to process the first word from the user input
+        public static string GetOriginalWord(string input)
+        {
+            return input.Split(',')[0];
+        }
+
+        //Function to process the second word from the user input
+        public static string GetRotatedWord(string input)
+        {
+            return input.Split(',')[1].TrimStart(' ');
         }
     }
 }

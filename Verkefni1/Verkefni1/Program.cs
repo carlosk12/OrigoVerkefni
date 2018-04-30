@@ -10,7 +10,6 @@ namespace Verkefni1
     {
         static void Main(string[] args)
         {
-            MyString myString = new MyString();
             string input;
             string originalString;
             string rotatedString;
@@ -21,13 +20,10 @@ namespace Verkefni1
             input = Console.ReadLine();
 
             //Input divided into the two words to be used
-            originalString = input.Split(',')[0];
-            rotatedString = input.Split(',')[1].TrimStart(' ');
-
-            Console.WriteLine("Your first input is: " + originalString);
-            Console.WriteLine("Your second input is: " + rotatedString);
-
-            isRotatedResult = myString.IsRotated(originalString, rotatedString);
+            originalString = MyString.GetOriginalWord(input);
+            rotatedString = MyString.GetRotatedWord(input);
+            
+            isRotatedResult = MyString.IsRotated(originalString, rotatedString);
             Console.WriteLine("Is the second input a rotated version of the first input: " + isRotatedResult);
 
             Console.ReadLine();

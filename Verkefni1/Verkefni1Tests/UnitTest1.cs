@@ -11,78 +11,78 @@ namespace Verkefni1Tests
         public void TestTrueResult()
         {
             // Arrange
-            MyString MyStringVar = new MyString();
+            bool expected = true;
 
             // Act
-            bool result = MyStringVar.IsRotated("handbolti", "ndboltiha");
+            bool result = MyString.IsRotated("handbolti", "ndboltiha");
 
             // Assert
-            Assert.AreEqual(true, result);
+            Assert.AreEqual(expected, result);
         }
 
         [TestMethod]
         public void TestFalseResult()
         {
             // Arrange
-            MyString MyStringVar = new MyString();
+            bool expected = false;
 
             // Act
-            bool result = MyStringVar.IsRotated("handbolti", "ndboltihi");
+            bool result = MyString.IsRotated("handbolti", "ndboltihi");
 
             // Assert
-            Assert.AreEqual(false, result);
+            Assert.AreEqual(expected, result);
         }
 
         [TestMethod]
         public void TestShorterSecondInput()
         {
             // Arrange
-            MyString MyStringVar = new MyString();
+            bool expected = false;
 
             // Act
-            bool result = MyStringVar.IsRotated("handbolti", "ndboltih");
+            bool result = MyString.IsRotated("handbolti", "ndboltih");
 
             // Assert
-            Assert.AreEqual(false, result);
+            Assert.AreEqual(expected, result);
         }
 
         [TestMethod]
         public void TestLongerSecondInput()
         {
             // Arrange
-            MyString MyStringVar = new MyString();
+            bool expected = false;
 
             // Act
-            bool result = MyStringVar.IsRotated("handbolti", "ndboltihaa");
+            bool result = MyString.IsRotated("handbolti", "ndboltihaa");
 
             // Assert
-            Assert.AreEqual(false, result);
+            Assert.AreEqual(expected, result);
         }
 
         [TestMethod]
         public void TestDifferentRotationIsTrue()
-        {            
+        {
             // Arrange
-            MyString MyStringVar = new MyString();
+            bool expected = true;
 
             // Act
-            bool result = MyStringVar.IsRotated("handbolti", "boltihand");
+            bool result = MyString.IsRotated("handbolti", "boltihand");
 
             // Assert
-            Assert.AreEqual(true, result);
+            Assert.AreEqual(expected, result);
         }
 
         [TestMethod]
         public void TestDifferentRotationIsFalse()
         {
             // Arrange
-            MyString MyStringVar = new MyString();
+            bool expected = false;
 
             // Act
-            bool result = MyStringVar.IsRotated("handbolti", "boltihind");
+            bool result = MyString.IsRotated("handbolti", "boltihind");
 
             // Assert
-            Assert.AreEqual(false, result);
+            Assert.AreEqual(expected, result);
         }
     }
 }
