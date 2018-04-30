@@ -1,5 +1,4 @@
 # OrigoVerkefni
-# H1 Forritunarverkefni fyrir Viðskiptalausnir í Origo
 
 **Verkefni 1:**
 10-15 í að íhuga hverning ég gæti leyst verkefnið en 2 tímar í heild frá því að ég opnaði Visual Studio þangað til að ég kláraði að gera forritið, var að melta í byrjun hverning væri best að nálgast verkefnið, þurfti líka að flétta upp documenting á sumt í C#, þ.e. innbyggð föll og þannig meðan ég forritaði.
