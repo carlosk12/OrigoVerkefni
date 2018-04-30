@@ -1,0 +1,16 @@
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Verkefni4Tests.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Verkefni4Tests.pdb
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Verkefni4.exe
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Verkefni4.pdb
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Verkefni4.exe.config
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\obj\Debug\Verkefni4Tests.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\obj\Debug\Verkefni4Tests.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\obj\Debug\Verkefni4Tests.dll
+C:\Users\Carlos Ragnar\Source\Repos\Verkefni4\Verkefni4Tests\obj\Debug\Verkefni4Tests.pdb
